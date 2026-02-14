@@ -77,10 +77,10 @@ Untuk mengubah nomor rekening BRI atau ShopeePay yang muncul di undangan, Anda d
 ---
 
 ## 📄 Lisensi
-Proyek ini dikembangkan oleh **Reski Anugrah Sari**. Bebas digunakan untuk keperluan pembelajaran atau pengembangan lebih lanjut.
+Proyek ini dikembangkan oleh **Reski Anugrah Sari, S.Kom**. Bebas digunakan untuk keperluan pembelajaran atau pengembangan lebih lanjut.
 
 ---
 
 <div align="center">
-  Dibuat dengan ❤️ untuk momen spesial Anda.
+  Dibuat dengan sepenuh hati untuk momen spesial Anda.
 </div>
