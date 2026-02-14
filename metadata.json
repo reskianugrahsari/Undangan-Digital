@@ -1,0 +1,5 @@
+{
+  "name": "Digital Invitation Platform",
+  "description": "A comprehensive digital invitation management system allowing users to create events, manage guest lists with unique links, and track RSVPs. Features a public-facing invitation view for guests.",
+  "requestFramePermissions": []
+}
