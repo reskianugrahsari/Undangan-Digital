@@ -41,10 +41,11 @@ export interface Guest {
 
 export interface Wish {
   id: string;
-  guest_id: string;
+  event_id: string;
+  guest_id?: string;
+  name: string;
   message: string;
   created_at: string;
-  guest_name?: string;
 }
 
 export interface AuthResponse {
