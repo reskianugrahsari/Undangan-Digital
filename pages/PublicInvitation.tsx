@@ -433,7 +433,7 @@ export const PublicInvitation: React.FC = () => {
                 {event.hero_image ? (
                   <div className="absolute inset-0">
                     <img src={event.hero_image} alt="Hero" className="w-full h-full object-cover" />
-                    <div className={`absolute inset-0 bg-gradient-to-b from-black/30 via-white/80 ${themeStyle.bgColor}`}></div>
+                    <div className={`absolute inset-0 ${event.event_type === 'party' ? 'bg-gradient-to-b from-black/80 via-black/50 to-transparent' : 'bg-gradient-to-b from-white/90 via-white/60 to-transparent'}`}></div>
                   </div>
                 ) : (
                   <div className={`absolute inset-0 bg-gradient-to-br ${themeStyle.bgGradient} opacity-20`}></div>
